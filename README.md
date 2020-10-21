@@ -12,6 +12,6 @@ Designed for and working well on iPad with resolution 1366 x 768
 
 Assumes default keyboard configuration and key assignments in  Microsoft Flight Simulator 2020
 
-Tested using single engine aircraft although nearly all functions should also work with multiple engines.  Not all aircraft support all functions i.e. some smaller aircraft do not have autopilot
+Tested using single engine aircraft although nearly all functions should also work with multiple engines.  Not all aircraft support all functions i.e. some smaller aircraft are not equipped with autopilot or retractable undercarriage
 
 Part of the Touch Portal MSFS2020 Discord community https://discord.gg/3FfDwdS with particular thanks to @Nickname_Pending for the plug-in, @arbi_ph for icons and graphics, and @FordMustang for paving the way with his flight simulator Touch Portal pages
