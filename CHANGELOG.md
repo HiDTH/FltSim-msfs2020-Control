@@ -10,7 +10,7 @@ Added panel names
 
 Added additional light switches
 
-Added panels for Radios, ATC, Engine & Fuel.
+Added panels for Radios, ATC, Engine & Fuel. Panels changes use Touch Portal Custom States in order to keep everythingon one page.
 
 Added Active Pause switch
 
