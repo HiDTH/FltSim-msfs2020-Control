@@ -4,6 +4,8 @@ Control Microsoft Flight Simulator 2020 cockpit buttons and functions from a mob
 Requires Touch Portal running on the same PC as Microsoft Flight Simulator along with v0.52 or later of the MSFS Touch Portal Plugin from
 https://github.com/tlewis17/MSFSTouchPortalPlugin
 
+To install select 'import page' from Touch Portal and navigate to TouchPortalMSFS2020Control.tpp from your download folder location.
+
 Designed for and working well on iPad with resolution 1366 x 768.
 
 Assumes default keyboard configuration and key assignments in  Microsoft Flight Simulator 2020.
