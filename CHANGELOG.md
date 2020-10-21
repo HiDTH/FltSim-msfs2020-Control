@@ -1,4 +1,4 @@
-Changelog Ver 1.1
+# Changelog Ver 1.1
 
 Updated to MSFS Touch Portal Plugin v0.52
 
