@@ -10,4 +10,6 @@ Designed for and working well on iPad with resolution 1366 x 768.
 
 Assumes default keyboard configuration and key assignments in  Microsoft Flight Simulator 2020.
 
+Tested using single engine aircraft although most functions should also work with multiple engines.
+
 Part of the Touch Portal MSFS2020 Discord community https://discord.gg/3FfDwdS with particular thanks to @Nickname_Pending for the plug-in, @arbi_ph for icons and graphics, and @FordMustang for paving the way with his flight simulator Touch Portal pages.
