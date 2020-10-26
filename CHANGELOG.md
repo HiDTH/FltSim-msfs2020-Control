@@ -1,4 +1,4 @@
-#Changelog Ver 1.2
+# Changelog Ver 1.2
 
 More buttons now working through the plug-in rather than using keypresses
 
