@@ -1,3 +1,20 @@
+#Changelog Ver 1.2
+
+More buttons now working through the plug-in rather than using keypresses
+
+Panels added for Heat & Ice and Camera Controls
+
+Checks to prevent inadvertantly switching off the battery, alternator or engine dring flight
+
+Parking Brake cannot be inadvertantly put on whilst in the air
+
+Confirmation checks for setting mixture to lean, dumping fuel, or shutting off the fuel selector or fuel valve
+
+Coarse and Fine adjustments for Autopilot Altitude, Heading and Vertical Speed settings
+
+
+
+
 # Changelog Ver 1.1
 
 Updated to MSFS Touch Portal Plugin v0.52
