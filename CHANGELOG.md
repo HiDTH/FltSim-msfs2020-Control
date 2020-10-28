@@ -12,6 +12,8 @@ Confirmation checks for setting mixture to lean, dumping fuel, or shutting off t
 
 Coarse and Fine adjustments for Autopilot Altitude, Heading and Vertical Speed settings
 
+ATC Panel Button opens ATC window in MSFS (assuming it starts closed) other panel buttons close it again
+
 
 
 
