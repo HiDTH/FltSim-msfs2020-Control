@@ -2,7 +2,7 @@
 
 More buttons now working through the plug-in rather than using keypresses
 
-Panels added for Heat & Ice and Camera Controls v1.3
+Panel for Cockpit Camera Controls added so that the view can easily be moved or switched in the cockpit
 
 Checks to prevent inadvertantly switching off the battery, alternator or engine unless parking brake is set
 
@@ -10,7 +10,7 @@ Parking Brake cannot be inadvertantly put on whilst in the air
 
 Confirmation checks for setting mixture to lean, dumping fuel, or shutting off the fuel selector or fuel valve
 
-Coarse and Fine adjustments for Autopilot Altitude, Heading and Vertical Speed settings
+Coarse and Fine adjustments for Autopilot Altitude, Heading, Airspeed and Vertical Speed settings
 
 ATC Panel Button opens ATC window in MSFS (assuming it starts closed) other panel buttons close it again
 
