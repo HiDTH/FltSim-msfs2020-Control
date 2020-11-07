@@ -15,7 +15,8 @@ Coarse and Fine adjustments for Autopilot Altitude, Heading, Airspeed and Vertic
 ATC Panel Button opens ATC window in MSFS (assuming it starts closed) other panel buttons close it again
 
 Tested primarily with Cessna 172 Skyhawk (G1000)
-
+ 
+ 
 
 KNOWN ISSUES
 
@@ -28,6 +29,7 @@ Certain functions still use keypresses and have no way of checking whether the i
 Take care switching fuel tanks as some aircraft do not have the option for Fuel Selector to be set to 'Both' causing fuel to stop flowing and the engine to stop
 
 Throttle, Mixture, Prop RPM and Engine RPM do not auto-update - pressing any of those buttons should refresh the displayed figures
+ 
 
 
 
