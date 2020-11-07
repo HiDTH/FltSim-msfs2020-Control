@@ -2,7 +2,9 @@
 
 More buttons now working through the plug-in rather than using keypresses
 
-Panel for Cockpit Camera Controls added so that the view can easily be moved or switched in the cockpit
+Panel for Cockpit Camera Controls added so that the view can easily be moved or switched in the cockpit - uses keypresses as not supported by plugin yet
+
+Propeller Pitch/RPM added for aircraft with variable pitch props - uses keypresses as not supported by plugin yet
 
 Checks to prevent inadvertantly switching off the battery, alternator or engine unless parking brake is set
 
@@ -12,7 +14,7 @@ Confirmation checks for setting mixture to lean, dumping fuel, or shutting off t
 
 Coarse and Fine adjustments for Autopilot Altitude, Heading, Airspeed and Vertical Speed settings
 
-ATC Panel Button opens ATC window in MSFS (assuming it starts closed) other panel buttons close it again
+ATC Panel Button opens ATC window in MSFS (assuming it starts closed) other panel buttons close it again  - uses keypresses as not supported by plugin yet
 
 Tested primarily with Cessna 172 Skyhawk (G1000)
  
