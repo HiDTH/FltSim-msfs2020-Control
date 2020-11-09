@@ -34,7 +34,7 @@ Throttle, Mixture, Prop RPM and Engine RPM do not auto-update - pressing any of 
 
 Anti-Ice system works differently in different aircraft (i.e. in Daher it operates airframe and propeller de-ice but not Pitot heat (separate function) or Windshield - which does not have an allocated keyboard key either so must be done from within the cockpit)
  
-Cockpit camera movement and views requires that the camera be in VRF mode not Landing or Instrument view as the keyboard commands act differently depending on the view - so pressing look left can bank the aircraft to the left if in the wrong view
+Cockpit camera movement and views sometimes cause the aircraft to bank unexpectedly when looking left or right rather than act as expected.  I have not been ale to pin down the exact circumstances under which it happens
 
 
 # Changelog Ver 1.1
