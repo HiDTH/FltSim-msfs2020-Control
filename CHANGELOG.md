@@ -22,7 +22,7 @@ Tested primarily with Cessna 172 Skyhawk (G1000)
 
 KNOWN ISSUES
 
-Not all aircraft have autopilot (or all autopilot functions available)
+Not all aircraft have autopilot (or all autopilot functions available).  Some Autopilot functions act differently in different aircraft - probably depending on how that actual Autopilot works. i.e. When you set the heading bug or altitude hold
 
 Some aircraft show lights as switched on whether they are or not
 
@@ -31,8 +31,10 @@ Certain functions still use keypresses and have no way of checking whether the i
 Take care switching fuel tanks as some aircraft do not have the option for Fuel Selector to be set to 'Both' causing fuel to stop flowing and the engine to stop
 
 Throttle, Mixture, Prop RPM and Engine RPM do not auto-update - pressing any of those buttons should refresh the displayed figures
- 
 
+Anti-Ice system works differently in different aircraft (i.e. in Daher it operates airframe and propeller de-ice but not Pitot heat (separate function) or Windshield - which does not have an allocated keyboard key either so must be done from within the cockpit)
+ 
+Cockpit camera movement and views requires that the camera be in VRF mode not Landing or Instrument view as the keyboard commands act differently depending on the view - so pressing look left can bank the aircraft to the left if in the wrong view
 
 
 # Changelog Ver 1.1
