@@ -6,9 +6,9 @@ Includes the ability to increase/decrease and view the current simulation rate
 Requires full version of Touch Portal running on the same PC as Microsoft Flight Simulator 2020 along with v0.52 or later of the MSFS Touch Portal Plugin from
 https://github.com/tlewis17/MSFSTouchPortalPlugin
 
-To install FltSim-msfs2020-Control select 'import page' from Touch Portal and navigate to 'FltSim msfs2020 Control.tpz' from your download folder location
+To install FltSim-msfs2020-Control unzip the file, select 'import page' from Touch Portal and navigate to 'FltSim msfs2020 Control.tpz' from your download folder location
 
-Designed for and working well on iPad with resolution 1366 x 768
+Designed for and working well on iPad with resolution 1366 x 768 - other devices may need to have font sizes tweaked to display properly.
 
 Assumes default keyboard configuration and key assignments in Microsoft Flight Simulator 2020
 
