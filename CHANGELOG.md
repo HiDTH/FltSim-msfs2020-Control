@@ -18,7 +18,7 @@ Coarse and Fine adjustments for Autopilot Altitude, Heading, Airspeed and Vertic
 
 ATC Panel Button opens ATC window in MSFS (assuming it starts closed) other panel buttons close it again  - uses keypresses as not supported by plugin yet
 
-Tested primarily with Cessna 172 Skyhawk (G1000) with some testing on XCub and Daher
+Tested primarily with Cessna 172 Skyhawk (G1000) with some testing on XCub and Daher TBM 930
   
   
 
@@ -34,7 +34,7 @@ Fuel - Take care switching fuel tanks as some aircraft do not have the option fo
 
 Engine Instruments - Throttle, Mixture, Prop RPM and Engine RPM do not auto-update - pressing any of those buttons should refresh the displayed figures
 
-Ice & Heat - Anti-Ice system works differently in different aircraft (i.e. in Daher it operates airframe and propeller de-ice but not Pitot heat (separate function) or Windshield - which does not have an allocated keyboard key either so must be done from within the cockpit)
+Ice & Heat - Anti-Ice system works differently in different aircraft (i.e. in Daher TBM 930 it operates airframe and propeller de-ice but not Pitot heat (separate function) or Windshield - which does not have an allocated keyboard key either so must be done from within the cockpit)
  
 Cameras - Cockpit camera movement and views sometimes cause the aircraft to bank unexpectedly when looking left or right rather than act as expected.  I have not been ale to pin down the exact circumstances under which it happens
  
