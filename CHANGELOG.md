@@ -1,3 +1,12 @@
+# Changelog Ver 1.2.1
+
+New 'Portrait' layout optimised for Android tablet devices (also works on IOS devices but has a few small formatting issues)
+
+Extra instruments for Engine RPM% and Throttle %
+
+Rudder Trim control added (but not tested) to trim out drift left or right
+
+
 # Changelog Ver 1.2
 
 More buttons now working through the plug-in rather than using keypresses
