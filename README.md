@@ -22,7 +22,10 @@ https://github.com/Touch-Portal-MSFS/MSFSTouchPortalPlugin/releases the files ca
 I sometimes run the page on my Galaxy Tab in Portrait mode, and other times on my iPad in Landscape mode, so I have both versions installed.  
 Firstly install the Portrait mode page into Touch Portal then delete all of the 'Global Objects - States' or custom states that start with 'fsc.', next install the Landscape version of the page before restarting Touch Portal as above
 
-Tested and working well on both my iPad and Samsung Galaxy Tab A10.
+# Notes
+Please also reference the notes in Changelog.md
+
+Tested and working well on both my iPad (IOS) and Samsung Galaxy Tab A10 (Android) - other devices may need the font sizes tweaking
 
 Assumes default keyboard configuration and key assignments in Microsoft Flight Simulator 2020
 
