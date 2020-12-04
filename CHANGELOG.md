@@ -1,6 +1,6 @@
 # Changelog Ver 1.2.1
 
-New 'Portrait' and 'Landscape' layouts optimised for Android tablets (also works on iPads) - only download either portrait or landscape.   If you need both there are instructions in the README.MD file
+New 'Portrait' and 'Landscape' layouts optimised for Android Tablets and iPad
 
 New Font Size button for higher resolution screens - adjusts the font size on a number of buttons and panel labels
 
@@ -13,7 +13,7 @@ Various bugs fixed
 # To install FltSim-msfs2020-Control:
 1. Delete any existing version of the page from within Touch Portal
 2. Download the latest version of FltSim-msfs2020-Control zip file from releases
-3. Unzip the file, select 'import page' from Touch Portal and navigate to and select either 'FltSim 2020 Control-Portrait.tpz' OR 'FltSim 2020 Control-Landscape.tpz' from your download folder location
+3. Unzip the file, select 'import page' from Touch Portal and navigate to and select either 'FltSim 2020 Control Portrait.tpz' OR 'FltSim 2020 Control Landscape.tpz' from your download folder location
 
 # To install MSFS Touch Portal Plugin:
 1. Delete any existing copy of the Plugin from Settings from within Touch Portal
