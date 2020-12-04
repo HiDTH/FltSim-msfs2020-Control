@@ -1,11 +1,14 @@
 # Changelog Ver 1.2.1
 
-New 'Portrait' layout optimised for Android tablet devices (also works on IOS devices but has a few small formatting issues)
+New 'Portrait' and 'Landscape' layouts optimised for Android tablets (also works on iPads) - only download either portrait or landscape.   If you need both there are instructions in the README.MD file
 
-Extra instruments for Engine RPM% and Throttle %
+New Font Size button for higher resolution screens - adjusts the font size on a number of buttons and panel labels
 
-Rudder Trim control added (but not tested) to trim out drift left or right
+Extra instruments in portrait layout for Engine RPM% and Throttle %
 
+Rudder Trim control added in portrait mode to trim out drift left or right
+
+Various bugs fixed
 
 # Changelog Ver 1.2
 
