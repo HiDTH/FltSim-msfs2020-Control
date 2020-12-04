@@ -51,8 +51,9 @@ Cameras - Cockpit camera movement and views sometimes cause the aircraft to bank
 
 
 Part of the Touch Portal MSFS2020 Discord community https://discord.gg/3FfDwdS with particular thanks to @Nickname_Pending for the plug-in, @arbi_ph for icons and graphics, and @FordMustang0288 for paving the way with his flight simulator Touch Portal pages
-
-
+ 
+ 
+ 
 # Changelog Ver 1.2
 
 More buttons now working through the plug-in rather than using keypresses
